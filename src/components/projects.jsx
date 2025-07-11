@@ -1,6 +1,11 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Github, ExternalLink, Eye, Star, GitBranch, Code, X, Calendar, Users, Zap, TrendingUp, Award, Sparkles } from 'lucide-react';
+import zenlifyImg from '../assets/zenlify.png';
+import taskflowImg from '../assets/taskflow.png';
+import reeltixImg from '../assets/reeltix.png';
+import portfolioImg from '../assets/portfolio.png';
+
 
 const projects = [
   {
@@ -25,7 +30,7 @@ const projects = [
     title: 'Zenlify',
     description: 'Zenlify is a modern and scalable ecommerce web application',
     longDescription: 'A comprehensive e-commerce platform built with cutting-edge technologies to provide seamless online shopping experience. The platform features advanced user authentication system, secure payment processing. The responsive design ensures optimal performance across all devices, while the admin dashboard provides comprehensive analytics and management tools. Key features include wishlist functionality, product reviews and ratings, advanced search and filtering, shopping cart persistence, and automated email notifications.',
-    image: '../src/assets/zenlify.png',
+    image: zenlifyImg,
     repoUrl: 'https://github.com/green1210/Zenlify/tree/main',
     liveUrl: 'https://zenlify.vercel.app/',
     tags: ['React', 'Redux', 'Vite', 'Nodejs', 'Expressjs', 'Mongodb', 'Axios', 'Tailwind CSS'],
@@ -76,7 +81,7 @@ const projects = [
     title: 'Taskflow',
     description: 'A sleek and minimal task management app to help you plan, organize, and conquer your day.',
     longDescription: 'TaskFlow is a beautifully crafted task management app built to simplify productivity. It allows users to manage their daily activities through a clean and interactive interface. Whether youre managing work, study, or personal tasks. TaskFlow helps keep everything in flowing featuring comprehensive project tracking, time management tools, and collaboration features. The platform includes real-time updates through reporting and analytics, coordination tools, and integration with popular development tool like GitHub. Key features include time tracking, milestone tracking, and customizable workflows. The responsive design ensures seamless experience across desktop and mobile devices.',
-    image: '../src/assets/taskflow.png',
+    image: taskflowImg,
     repoUrl: 'https://github.com/green1210/Taskflow',
     liveUrl: 'https://taskflow-seven-rho.vercel.app/',
     tags: ['React', 'Redux', 'Node.js', 'PostgreSQL', 'WebSocket'],
@@ -93,7 +98,7 @@ const projects = [
     title: 'Reeltix',
     description: 'Reeltix - AI-Powered Movie Ticket Booking web application developed without writing a single line of code entirely using AI models and prompt engineering skills.',
     longDescription: 'Reeltix is a fully functional movie ticket booking web application developed without writing a single line of code — entirely using AI models and prompt engineering skills. This project showcases how artificial intelligence can be used to build real-world applications efficiently.It uses data from TheMovieDB API to fetch movie listings, details, trailers, and more.',
-    image: '../src/assets/reeltix.png',
+    image: reeltixImg,
     repoUrl: 'https://github.com/green1210/Reeltix',
     liveUrl: 'https://reeltix.vercel.app/',
     tags: ['Artificial Intelligence', 'Prompt Engineering', 'TheMovieDB API'],
@@ -127,7 +132,7 @@ const projects = [
     title: 'Portfolio Website',
     description: 'An interactive dashboard for data visualization and analytics with real-time updates and customizable widgets.',
     longDescription: 'A comprehensive analytics dashboard that transforms raw data into actionable insights through interactive visualizations and real-time data processing. Built with React and D3.js for powerful data visualization capabilities, the dashboard features customizable widgets, real-time data updates, and export capabilities for various data formats. The platform includes advanced charting options, filtering and drill-down capabilities, automated report generation, and integration with multiple data sources. Perfect for businesses looking to make data-driven decisions with beautiful, interactive visualizations.',
-    image: '../src/assets/portfolio.png',
+    image: portfolioImg,
     repoUrl: 'https://github.com/nagamanikanta1210/analytics-dashboard',
     liveUrl: 'https://analytics-demo.netlify.app',
     tags: ['React', 'D3.js', 'Python', 'Pandas', 'Chart.js'],
