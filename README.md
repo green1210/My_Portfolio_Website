@@ -51,7 +51,7 @@ Whether you're viewing it on desktop, tablet, or mobile — it delivers a consis
 
 | Expertise Section | Projects Section |
 |------------------|-----------------|
-| ![](./screenshots/project.png) | ![](./screenshots/project.png) |
+| ![](./screenshots/expertise.png) | ![](./screenshots/project.png) |
 
 | Contact Section | Footer Section |
 |------------------|-----------------|
@@ -134,3 +134,54 @@ npm install
 # Start the development server
 npm run dev
 
+```
+
+## 🧑‍💻 Customization Guide
+
+Want to make this portfolio truly yours? Here's how you can customize it:
+
+| File               | Purpose                                      |
+|--------------------|----------------------------------------------|
+| `skills.jsx`       | Add or modify your technical skillset        |
+| `projects.jsx`     | Showcase your personal or professional work  |
+| `contact.jsx`      | Update your email, phone, and social links   |
+| `assets/`          | Replace profile image, icons, and logos      |
+
+---
+
+## ☁️ Deployment Options
+
+Easily deploy this portfolio to the web using any of the platforms below:
+
+- 🔗 [Vercel](https://vercel.com/)
+- 🔗 [Netlify](https://www.netlify.com/)
+- 🔗 [GitHub Pages](https://pages.github.com/) *(requires setup)*
+
+---
+
+## 📬 Contact
+
+Have a project in mind, job opportunity, or just want to connect?  
+Feel free to reach out!
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — you're free to use, modify, and distribute it for both personal and commercial purposes.
+
+---
+
+<br />
+
+<p align="center">
+  Made with ❤️ by <strong>Nagamanikanta Nallaganchu</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%26+DS+Enthusiast;Prompt+Engineer;Building+Intelligent+Web+Solutions" />
+</p>
