@@ -1,20 +1,3 @@
-<h1 align="center">🚀 Personal Portfolio</h1>
-
-<p align="center">
-  <strong>A modern, animated, and fully responsive portfolio website</strong><br />
-  Built using <code>React.js</code>, <code>TailwindCSS</code>, and <code>Framer Motion</code>.
-</p>
-
-<p align="center">
-  Designed to showcase my technical skills, featured projects, and contact information — all wrapped in an elegant and interactive UI.
-</p>
-
-<p align="center">
-  🌐 <a href="https://your-portfolio-link.com" target="_blank"><strong>Live Preview</strong></a> &nbsp;|&nbsp;
-  📬 <a href="mailto:your.email@example.com"><strong>Get in Touch</strong></a>
-</p>
----
-
 <h1 align="center">🚀 Personal Portfolio Website</h1>
 
 <p align="center">
