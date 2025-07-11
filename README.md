@@ -1,126 +1,45 @@
-<!-- Header -->
+<!-- Header with animated banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&animation=fadeIn" alt="Nagamanikanta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Portfolio%20Website&fontSize=40&fontAlign=50&fontColor=ffffff" />
 </p>
 
-<h1 align="center">🌐 My Portfolio Website</h1>
-
-<p align="center">
-  A modern, responsive, and animated personal portfolio built with <b>React, TailwindCSS, Framer Motion</b>, and other modern tools. <br />
-  It showcases my skills, projects, contact info, and professional background.
-</p>
-
-<p align="center">
-  <a href="https://github.com/green1210" target="_blank"><img src="https://img.shields.io/badge/GitHub-@green1210-181717?style=flat&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Live-purple?style=flat-square&logo=vercel" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Made%20with-React-blue?style=flat&logo=react" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat&logo=vercel" /></a>
-</p>
+<div align="center">
+  <h3>🚀 A sleek, modern personal portfolio built with React, TailwindCSS & Framer Motion</h3>
+  <p>✨ Showcasing my projects, skills, and contact in a stylish and responsive layout.</p>
+</div>
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
-| Home Page | Skills & Expertise |
-|-----------|--------------------|
-| ![Home](./screenshots/home.png) | ![Skills](./screenshots/skills.png) |
+> 🧪 Live Preview: [Click here to visit](https://your-portfolio-link.com)
 
-| Projects | Contact |
-|----------|---------|
-| ![Projects](./screenshots/projects.png) | ![Contact](./screenshots/contact.png) |
+![Portfolio Screenshot](./screenshots/home.png)
 
 ---
 
-## 🚀 Features
+## 🧰 Tech Stack
 
-- ⚡ Interactive animated UI with **Framer Motion**
-- 🌙 Clean **dark theme** UI
-- 💡 Skills & Progress visualization
-- 🧠 Highlights **AI, ML, Full Stack, Prompt Engineering**
-- 📂 Showcases major projects with filters (AI/ML, Full Stack, E-Commerce)
-- 📧 Built-in contact form with email, phone, and social links
-- 📱 Fully responsive across all devices
-
----
-
-## 🛠️ Tech Stack
-
-| Frontend | Animation | Styling | Deployment |
-|----------|-----------|---------|------------|
-| React.js | Framer Motion | TailwindCSS | Vercel |
+| Tech             | Description                           |
+|------------------|----------------------------------------|
+| ⚛️ React         | Frontend library for building UI       |
+| 💨 Tailwind CSS   | Utility-first CSS framework            |
+| 🎞️ Framer Motion | Animation library for React            |
+| ⚡ Vite           | Lightning-fast dev environment         |
 
 ---
 
-## 🧾 Folder Structure
+## 🧩 Features
 
-src/
-│
-├── assets/ # Images and media files
-├── components/ # All section components
-│ ├── contact.jsx
-│ ├── CursorFollower.jsx
-│ ├── details.jsx
-│ ├── footer.jsx
-│ ├── header.jsx
-│ ├── LoadingScreen.jsx
-│ ├── Navigation.jsx
-│ ├── Notifications.jsx
-│ ├── ParticlesBackground.jsx
-│ ├── projects.jsx
-│ ├── ScrollToTop.jsx
-│ ├── skills.jsx
-│
-├── App.jsx # Main App component
-├── main.jsx # Entry point
-├── index.css # Tailwind base styles
-
+- 🎨 Fully responsive and modern UI
+- 🔀 Smooth page transitions using Framer Motion
+- 🖱️ Animated custom cursor follower
+- 🚀 Scroll-to-top button
+- 🌌 Particles background effect
+- 📁 Modular & reusable components
+- 📬 Working contact form setup-ready
 
 ---
 
-## 🧑‍💻 About Me
+## 📂 Folder Structure
 
-> Hi! I'm **Nagamanikanta Nallaganchu**, a passionate technologist pursuing B.Tech in CSE (AI & ML) at Parul University.  
-> I love crafting seamless web experiences and intelligent systems that blend AI with excellent UX.
-
-- 📍 Based in: Vadodara, Gujarat, India  
-- 🎓 Parul University, Vadodara (2026)  
-- 💼 AI Engineer • Full Stack Developer  
-- 💯 95% Project Success Rate  
-- 🏅 Top 5% LeetCode • 5+ AI Projects • 30+ Dev Projects  
-
----
-
-## 📬 Contact
-
-Feel free to connect with me!
-
-- 📧 Email: [nagamanikanta1210@gmail.com](mailto:nagamanikanta1210@gmail.com)
-- 📱 Phone: +91 9392409591
-- 📍 Location: Vadodara, Gujarat, India
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nagamanikanta1210" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/green1210" target="_blank">GitHub</a> •
-  <a href="https://leetcode.com/green1210" target="_blank">LeetCode</a> •
-  <a href="https://instagram.com/green1210" target="_blank">Instagram</a> •
-  <a href="https://hackerrank.com/green1210" target="_blank">HackerRank</a>
-</p>
-
----
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/green1210/portfolio-website.git
-cd portfolio-website
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev
