@@ -25,15 +25,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-> 🚀 Check it live: [your-portfolio-link.com](https://your-portfolio-link.com)
-
-![Demo GIF](./screenshots/demo.gif)
-> _(or use `home.png` if GIF is not available)_
-
----
-
 ## 📸 Screenshots
 
 | Home Page | Skills Section |
