@@ -159,17 +159,6 @@ Easily deploy this portfolio to the web using any of the platforms below:
 
 ---
 
-## 📬 Contact
-
-Have a project in mind, job opportunity, or just want to connect?  
-Feel free to reach out!
-
-- 📧 Email: [Mail](mailto:your.nagamanikanta1210@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** — you're free to use, modify, and distribute it for both personal and commercial purposes.
