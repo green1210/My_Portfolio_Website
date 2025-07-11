@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://your-portfolio-link.com" target="_blank"><strong>Live Preview</strong></a> &nbsp;|&nbsp;
-  📬 <a href="mailto:your.email@example.com"><strong>Contact Me</strong></a>
+  🌐 <a href="https://nagamanikanta.vercel.app/" target="_blank"><strong>Live Preview</strong></a> &nbsp;|&nbsp;
+  📬 <a href="mailto:nagamanikanta1210@gmail.com"><strong>Contact Me</strong></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Whether you're viewing it on desktop, tablet, or mobile — it delivers a consis
 
 ## 🌐 Live Demo
 
-> 🚀 **View Online**: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+> 🚀 **View Online**: [Portfolio](https://nagamanikanta.vercel.app/)
 
 <p align="center">
   <img src="./screenshots/home.png" width="800" alt="Portfolio Preview" />
