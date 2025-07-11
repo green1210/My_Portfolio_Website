@@ -53,16 +53,16 @@
 | ⚡ Vite           | Lightning-fast dev & build tooling  |
 
 ---
-
 ## ✨ Features
 
-✅ **Responsive Design** — Optimized for all screen sizes  
-🎯 **Framer Motion Animations** — Sleek transitions & interactivity  
-🖱️ **Custom Animated Cursor** — Unique user experience  
-📨 **Contact Form** — Backend-ready setup  
-🔼 **Scroll to Top Button**  
-🧩 **Reusable Components** — Organized and scalable  
-🌌 **Particle Background** — Adds visual depth
+- 🎨 Responsive and modern design
+- 🎯 Fully modular React component structure
+- 🖱️ Custom animated cursor follower
+- ✨ Smooth transitions using Framer Motion
+- 🌌 Particles animated background
+- 🛠️ Easy content customization
+- 🧩 Scroll to top functionality
+- 📫 Contact form layout (email/social ready)
 
 ---
 
