@@ -199,7 +199,7 @@ export const EnhancedHero = () => {
               </span>
             </motion.div>
             
-            {/* Perfect Typography Hierarchy */}
+            {/* Typography Hierarchy */}
             <motion.h1 
               className="text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-4 leading-tight"
               initial={{ opacity: 0, y: 20 }}
@@ -318,7 +318,7 @@ export const EnhancedHero = () => {
             </motion.div>
            
             
-            {/* Enhanced Action Buttons */}
+            {/* Action Buttons */}
             <motion.div 
               className="flex flex-wrap gap-4 lg:justify-start justify-center mb-8"
               initial={{ opacity: 0, y: 15 }}
@@ -359,7 +359,7 @@ export const EnhancedHero = () => {
               </motion.button>
             </motion.div>
 
-             {/* Enhanced Stats */}
+             {/* Stats */}
             <motion.div
               className="grid grid-cols-2 lg:grid-cols-4 gap-4"
               initial={{ opacity: 0, y: 15 }}
@@ -389,7 +389,7 @@ export const EnhancedHero = () => {
             </motion.div>
           </motion.div>
           
-           {/* Enhanced Profile Section */}
+           {/* Profile Section */}
           <motion.div
             initial={{ opacity: 0, scale: 0.9, x: 30 }}
             animate={{ opacity: 1, scale: 1, x: 0 }}
@@ -397,7 +397,7 @@ export const EnhancedHero = () => {
             className="flex-shrink-0 flex justify-center items-center lg:w-1/3"
           >
             <div className="relative">
-              {/* Enhanced Orbiting Elements */}
+              {/* Orbiting Elements */}
               {[...Array(3)].map((_, i) => (
                 <motion.div
                   key={i}
@@ -418,7 +418,7 @@ export const EnhancedHero = () => {
                 />
               ))}
               
-             {/* Enhanced Profile Container */}
+             {/* Profile Container */}
               <motion.div 
                 className="w-80 h-80 lg:w-96 lg:h-96 relative z-10 group"
                 animate={{ 
@@ -431,7 +431,7 @@ export const EnhancedHero = () => {
                 }}
                 whileHover={{ scale: 1.02 }}
               >
-                {/* Enhanced Glow Effect */}
+                {/* Glow Effect */}
                 <motion.div
                   className="absolute inset-0 bg-gradient-to-r from-primary via-accent to-secondary rounded-full opacity-10 blur-2xl"
                   animate={{
@@ -461,7 +461,7 @@ export const EnhancedHero = () => {
                 {/* Professional Overlay */}
                   <div className="absolute inset-0 bg-gradient-to-t from-black/5 via-transparent to-transparent" />
                 </motion.div>
-                {/* Enhanced Floating Tech Icons */}
+                {/* Floating Tech Icons */}
                 {[
                   { Icon: Code, angle: 0, radius: 160, color: '#4facfe' },
                   { Icon: Brain, angle: 120, radius: 170, color: '#f093fb' },
@@ -504,7 +504,7 @@ export const EnhancedHero = () => {
                 ))}
               </motion.div>
               
-             {/* Enhanced Background Accents */}
+             {/* Background Accents */}
               <motion.div 
                 className="absolute -top-8 right-0 w-20 h-20 rounded-full bg-accent/10 blur-2xl"
                 animate={{ 
@@ -536,7 +536,7 @@ export const EnhancedHero = () => {
         </div>
 
 
-        {/* ENHANCED: Expertise Cards Section */}
+        {/* Expertise Cards Section */}
         <motion.div
           className="mt-20 max-w-7xl mx-auto"
           initial={{ opacity: 0, y: 50 }}
@@ -611,7 +611,7 @@ export const EnhancedHero = () => {
                   {card.projects}
                 </motion.div>
                 
-                {/* Enhanced Icon */}
+                {/* Icon */}
                 <motion.div
                   className="relative z-10 mb-6"
                   whileHover={{ scale: 1.15, rotate: 10 }}
