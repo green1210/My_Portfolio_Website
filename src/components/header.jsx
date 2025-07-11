@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { Rocket, School, Briefcase, Globe, Code, FileText, Brain, Sparkles, Sprout, BrainCog, Star, Zap, Download, ArrowRight, Play, MapPin, Calendar, Award, Users, TrendingUp, Target, Coffee, Lightbulb } from 'lucide-react';
 import { TypeAnimation } from 'react-type-animation';
-
+import profileImage from '../assets/profile.png';
 
 export const EnhancedHero = () => {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -453,7 +453,7 @@ export const EnhancedHero = () => {
                   }}
                 >
                   <img 
-                    src="../src/assets/profile.png"
+                    src={profileImage}
                     alt="Nagamanikanta Nallaganchu" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
