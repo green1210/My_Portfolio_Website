@@ -1,7 +1,4 @@
-<!-- Header with animated banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Portfolio%20Website&fontSize=40&fontAlign=50&fontColor=ffffff" />
-</p>
+
 
 <div align="center">
   <h3>🚀 A sleek, modern personal portfolio built with React, TailwindCSS & Framer Motion</h3>
@@ -85,7 +82,7 @@ npm run dev
 
 ---
 
-##🧑‍💻 Customize
+## 🧑‍💻 Customize
 You can update the content by editing:
 
 skills.jsx – your skills
@@ -98,7 +95,7 @@ assets/ – your images/icons
 
 ---
 
-##🚢 Deployment
+## 🚢 Deployment
 
 Deploy easily on:
 
@@ -110,7 +107,7 @@ GitHub Pages (with gh-pages setup)
 
 ---
 
-##📬 Contact
+## 📬 Contact
 Feel free to reach out for collaboration or feedback!
 
 📧 Email: your.email@example.com
@@ -121,7 +118,8 @@ Feel free to reach out for collaboration or feedback!
 
 ---
 
-##📝 License
+## 📝 License
+
 This project is licensed under the MIT License – free for personal and commercial use.
 
 <p align="center"> Made with ❤️ by <strong>Nagamanikanta Nallaganchu</strong> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+DS+Enthusiast;💼+Building+awesome+web+experiences" /> </p> ```
