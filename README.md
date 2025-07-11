@@ -45,10 +45,6 @@ Whether you're viewing it on desktop, tablet, or mobile — it delivers a consis
 
 ## 📸 Screenshots
 
-| Home Page | Skills Section |
-|-----------|----------------|
-| ![](./screenshots/home.png) | ![](./screenshots/skills.png) |
-
 | Expertise Section | Projects Section |
 |------------------|-----------------|
 | ![](./screenshots/expertise.png) | ![](./screenshots/project.png) |
