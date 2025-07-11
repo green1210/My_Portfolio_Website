@@ -1,16 +1,22 @@
-<div align="center">
+<h1 align="center">💼 Portfolio Website</h1>
 
-# 🚀 Modern Developer Portfolio  
-### Built with React • TailwindCSS • Framer Motion
+<p align="center">
+  A sleek, responsive, and animated personal portfolio built using <strong>React.js</strong>, <strong>TailwindCSS</strong>, and <strong>Framer Motion</strong>.
+</p>
 
-<p>💼 Showcase your projects, skills, and creativity with this sleek and blazing-fast portfolio. Responsive. Animated. You.</p>
+<p align="center">
+  Showcasing my projects, skills, and contact info in a modern, user-friendly layout.
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF0088?style=for-the-badge&logo=framer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+---
 
-</div>
+## 🌐 Live Demo
+
+> 🚀 **View Online**: [https://your-portfolio-link.com](https://your-portfolio-link.com)
+
+<p align="center">
+  <img src="./screenshots/home.png" width="800" alt="Portfolio Preview" />
+</p>
 
 ---
 
