@@ -164,7 +164,7 @@ Easily deploy this portfolio to the web using any of the platforms below:
 Have a project in mind, job opportunity, or just want to connect?  
 Feel free to reach out!
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📧 Email: [Mail](mailto:your.nagamanikanta1210@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - 🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
 
