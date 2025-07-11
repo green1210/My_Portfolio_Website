@@ -49,9 +49,13 @@ Whether you're viewing it on desktop, tablet, or mobile — it delivers a consis
 |-----------|----------------|
 | ![](./screenshots/home.png) | ![](./screenshots/skills.png) |
 
-| Projects Section | Contact Section |
+| Expertise Section | Projects Section |
 |------------------|-----------------|
-| ![](./screenshots/projects.png) | ![](./screenshots/contact.png) |
+| ![](./screenshots/project.png) | ![](./screenshots/project.png) |
+
+| Contact Section | Footer Section |
+|------------------|-----------------|
+| ![](./screenshots/contact.png) | ![](./screenshots/footer.png) |
 
 ---
 
