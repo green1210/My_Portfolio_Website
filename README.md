@@ -1,118 +1,126 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=40&fontAlign=50&animation=fadeIn" alt="Nagamanikanta Nallaganchu" />
-</div>
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Nagamanikanta%20Nallaganchu&fontSize=45&animation=fadeIn" alt="Nagamanikanta Banner" />
+</p>
 
-<h2 align="center">🚀 Full-Stack Developer | 🤖 AI & Data Science Enthusiast | ✨ Prompt Engineer</h2>
+<h1 align="center">🌐 My Portfolio Website</h1>
 
 <p align="center">
-  <a href="mailto:nagamanikanta1210@gmail.com">📩 Email</a> •
-  <a href="https://github.com/green1210">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/nagamanikanta1210">🔗 LinkedIn</a> •
-  <a href="https://leetcode.com/green1210">🧠 LeetCode</a> •
-  <a href="https://www.instagram.com/">📸 Instagram</a> •
-  <a href="https://www.hackerrank.com/">🎯 HackerRank</a>
+  A modern, responsive, and animated personal portfolio built with <b>React, TailwindCSS, Framer Motion</b>, and other modern tools. <br />
+  It showcases my skills, projects, contact info, and professional background.
+</p>
+
+<p align="center">
+  <a href="https://github.com/green1210" target="_blank"><img src="https://img.shields.io/badge/GitHub-@green1210-181717?style=flat&logo=github" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Live-purple?style=flat-square&logo=vercel" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Made%20with-React-blue?style=flat&logo=react" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Deployed-Vercel-black?style=flat&logo=vercel" /></a>
 </p>
 
 ---
 
-## 👋 About Me
+## 📸 Screenshots
 
-Hi! I'm **Nagamanikanta Nallaganchu**, a passionate technologist pursuing B.Tech in **Computer Science & Engineering (AI/ML)** at Parul University.
+| Home Page | Skills & Expertise |
+|-----------|--------------------|
+| ![Home](./screenshots/home.png) | ![Skills](./screenshots/skills.png) |
 
-- 📍 Based in **Vadodara, Gujarat, India**
-- 🎯 AI Engineer • Full Stack Developer
-- 💡 Crafting intelligent solutions that bridge **AI with seamless user experiences**
-- 📈 Top 5% on LeetCode | 🚀 95% Project Success Rate
-- 👥 Led 3+ development teams | 🔬 5+ AI Innovation Projects
-
----
-
-## 🧠 What I Do Best
-
-| FullStack Development | Artificial Intelligence | Machine Learning | Prompt Engineering |
-|----------------------|------------------------|------------------|--------------------|
-| MERN stack specialist | Smart AI systems & NLP | Deep learning models | Effective AI prompts |
-| React, Node.js, MongoDB, Express | OpenAI, TensorFlow, PyTorch | Scikit-learn, Pandas, Keras | GPT-4, Claude, Gemini, LangChain |
+| Projects | Contact |
+|----------|---------|
+| ![Projects](./screenshots/projects.png) | ![Contact](./screenshots/contact.png) |
 
 ---
 
-## 🛠️ Tech Skills & Proficiency
+## 🚀 Features
 
-### 💻 Core Skills
-
-- **Frontend**: React, JavaScript, TailwindCSS
-- **Backend**: Node.js, Express.js, Python
-- **Database**: MongoDB, MySQL
-- **AI/ML**: TensorFlow, PyTorch, OpenAI, Scikit-learn, Pandas, NLP
-- **Tools**: Git, GitHub, Postman, Vite
-
-### 📊 Skill Ratings
-
-| Skill | Proficiency |
-|-------|-------------|
-| Full Stack Development | 🔵 95% |
-| JavaScript             | 🟡 90% |
-| Java                   | 🟠 90% |
-| Python                 | 🔵 85% |
-| Artificial Intelligence| 🔴 85% |
-| Machine Learning       | 🟢 75% |
+- ⚡ Interactive animated UI with **Framer Motion**
+- 🌙 Clean **dark theme** UI
+- 💡 Skills & Progress visualization
+- 🧠 Highlights **AI, ML, Full Stack, Prompt Engineering**
+- 📂 Showcases major projects with filters (AI/ML, Full Stack, E-Commerce)
+- 📧 Built-in contact form with email, phone, and social links
+- 📱 Fully responsive across all devices
 
 ---
 
-## 🔥 Featured Projects
+## 🛠️ Tech Stack
 
-### 🌐 [Uniconnect](#)
-> A comprehensive student campus connectivity application that bridges gaps between students, faculty, and resources.
-- `React`, `Node.js`, `Express`, `MongoDB`, `Socket.io`
-- 👥 500+ Active Users | ✅ 100% Complete
-
-### 🛒 [E-Commerce Platform](#)
-> Modern e-commerce solution with real-time inventory and AI recommendations.
-- `React`, `Redux`, `Firebase`, `Stripe`, `TailwindCSS`
-- 💰 1000+ Transactions | ✅ 95% Complete
-
-### 🤖 [Personal AI Assistant](#)
-> Built with advanced NLP models for personalized intelligent conversations.
-- `Python`, `FastAPI`, `TensorFlow`, `OpenAI`, `React`
-- 🎯 95% Accuracy | ✅ 90% Complete
+| Frontend | Animation | Styling | Deployment |
+|----------|-----------|---------|------------|
+| React.js | Framer Motion | TailwindCSS | Vercel |
 
 ---
 
-## 👨‍🎓 Professional Journey
+## 🧾 Folder Structure
 
-| 🔍 Section | Highlights |
-|-----------|-----------|
-| 🎓 Education | B.Tech CSE - AI/ML, Parul University |
-| 💼 Experience | Full-Stack Internships, AI Projects |
-| 🏆 Certifications | NPTEL (Computer Networks), Infosys Springboard (Python, SQL), Coincent (AI with Python) |
-| 📚 Trainings | Ongoing AI/ML & Prompt Engineering |
+src/
+│
+├── assets/ # Images and media files
+├── components/ # All section components
+│ ├── contact.jsx
+│ ├── CursorFollower.jsx
+│ ├── details.jsx
+│ ├── footer.jsx
+│ ├── header.jsx
+│ ├── LoadingScreen.jsx
+│ ├── Navigation.jsx
+│ ├── Notifications.jsx
+│ ├── ParticlesBackground.jsx
+│ ├── projects.jsx
+│ ├── ScrollToTop.jsx
+│ ├── skills.jsx
+│
+├── App.jsx # Main App component
+├── main.jsx # Entry point
+├── index.css # Tailwind base styles
+
 
 ---
 
-## 📫 Contact Me
+## 🧑‍💻 About Me
 
-- 📧 Email: **nagamanikanta1210@gmail.com**
-- 📞 Phone: **+91 9392409591**
-- 📍 Location: **Vadodara, Gujarat**
-- 🌐 Open to Remote Work & Freelance
+> Hi! I'm **Nagamanikanta Nallaganchu**, a passionate technologist pursuing B.Tech in CSE (AI & ML) at Parul University.  
+> I love crafting seamless web experiences and intelligent systems that blend AI with excellent UX.
+
+- 📍 Based in: Vadodara, Gujarat, India  
+- 🎓 Parul University, Vadodara (2026)  
+- 💼 AI Engineer • Full Stack Developer  
+- 💯 95% Project Success Rate  
+- 🏅 Top 5% LeetCode • 5+ AI Projects • 30+ Dev Projects  
+
+---
+
+## 📬 Contact
+
+Feel free to connect with me!
+
+- 📧 Email: [nagamanikanta1210@gmail.com](mailto:nagamanikanta1210@gmail.com)
+- 📱 Phone: +91 9392409591
+- 📍 Location: Vadodara, Gujarat, India
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/nagamanikanta1210"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://github.com/green1210"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
-  <a href="https://leetcode.com/green1210"><img src="https://skillicons.dev/icons?i=leetcode" height="30" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=hackerrank" height="30" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+<p align="left">
+  <a href="https://linkedin.com/in/nagamanikanta1210" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/green1210" target="_blank">GitHub</a> •
+  <a href="https://leetcode.com/green1210" target="_blank">LeetCode</a> •
+  <a href="https://instagram.com/green1210" target="_blank">Instagram</a> •
+  <a href="https://hackerrank.com/green1210" target="_blank">HackerRank</a>
 </p>
 
 ---
 
-## 📬 Stay Updated
+## 📦 Installation
 
-Subscribe to get updates on my latest projects and blogs.
+```bash
+# Clone the repository
+git clone https://github.com/green1210/portfolio-website.git
+cd portfolio-website
 
-> © 2025 Nagamanikanta Nallaganchu. All rights reserved.
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
