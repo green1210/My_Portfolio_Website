@@ -122,4 +122,4 @@ Feel free to reach out for collaboration or feedback!
 
 This project is licensed under the MIT License – free for personal and commercial use.
 
-<p align="center"> Made with ❤️ by <strong>Nagamanikanta Nallaganchu</strong> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=🚀+Full-Stack+Developer;🤖+AI+%26+DS+Enthusiast;💼+Building+awesome+web+experiences" /> </p> ```
+<p align="center"> Made with ❤️ by <strong>Nagamanikanta Nallaganchu</strong> </p>
