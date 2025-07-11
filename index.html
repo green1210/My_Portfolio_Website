@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="icon" type="image/png" href="../src/assets/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nagamanikanta Nallaganchu - Portfolio</title>
+    <meta name="description" content="Passionate AI & Full Stack Developer specializing in Machine Learning, React, and modern web technologies. Building innovative solutions that bridge the gap between artificial intelligence and user experience." />
+    <meta name="keywords" content="AI Developer, Full Stack Developer, Machine Learning, React, Node.js, Python, Artificial Intelligence, Web Development" />
+    <meta name="author" content="Nagamanikanta Nallaganchu" />
+    
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Nagamanikanta Nallaganchu - AI & Full Stack Developer" />
+    <meta property="og:description" content="Passionate AI & Full Stack Developer specializing in Machine Learning, React, and modern web technologies." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://nagamanikanta.dev" />
+    <meta property="og:image" content="/src/assets/profile.png" />
+    
+    <!-- Twitter Card Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Nagamanikanta Nallaganchu - AI & Full Stack Developer" />
+    <meta name="twitter:description" content="Passionate AI & Full Stack Developer specializing in Machine Learning, React, and modern web technologies." />
+    <meta name="twitter:image" content="/src/assets/profile.png" />
+    
+    <!-- Preload Critical Resources -->
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" as="style" />
+    <link rel="preload" href="/src/assets/profile.png" as="image" />
+    
+    <!-- Additional Styling -->
+    <style>
+      body {
+        background: #0F0F23;
+        color: white;
+        overflow-x: hidden;
+      }
+      
+      #root {
+        min-height: 100vh;
+      }
+      
+      .loading-screen {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: #0F0F23;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 9999;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root">
+      <!-- Loading Screen Fallback -->
+      <div class="loading-screen">
+        <div style="text-align: center;">
+          <div style="width: 50px; height: 50px; border: 3px solid #4DB5FF; border-top: 3px solid transparent; border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto 20px;"></div>
+          <p style="color: #4DB5FF; font-family: Inter, sans-serif;">Loading Portfolio...</p>
+        </div>
+      </div>
+    </div>
+    
+    <style>
+      @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+    </style>
+    
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>
