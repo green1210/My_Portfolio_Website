@@ -1,11 +1,8 @@
-<h1 align="center">💼 Portfolio Website</h1>
+<h1 align="center">🚀 Modern Portfolio Website</h1>
 
 <p align="center">
-  A sleek, responsive, and animated personal portfolio built using <strong>React.js</strong>, <strong>TailwindCSS</strong>, and <strong>Framer Motion</strong>.
-</p>
-
-<p align="center">
-  Showcasing my projects, skills, and contact info in a modern, user-friendly layout.
+  A sleek, elegant, and interactive portfolio website built with <strong>React.js</strong>, <strong>TailwindCSS</strong>, and <strong>Framer Motion</strong>. <br />
+  Designed to professionally showcase your projects, skills, and contact information with smooth animations and a clean layout.
 </p>
 
 <p align="center">
