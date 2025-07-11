@@ -15,6 +15,41 @@
 </p>
 ---
 
+<h1 align="center">🚀 Personal Portfolio Website</h1>
+
+<p align="center">
+  <strong>A modern, animated, and fully responsive personal portfolio website</strong><br />
+  Built using <code>React.js</code>, <code>TailwindCSS</code>, and <code>Framer Motion</code>
+</p>
+
+<p align="center">
+  Designed to showcase my skills, experience, projects, and contact information through a clean, interactive, and visually appealing user interface.
+</p>
+
+<p align="center">
+  🌐 <a href="https://your-portfolio-link.com" target="_blank"><strong>Live Preview</strong></a> &nbsp;|&nbsp;
+  📬 <a href="mailto:your.email@example.com"><strong>Contact Me</strong></a>
+</p>
+
+---
+
+## 🧾 Project Description
+
+The **Portfolio Website** is a fully responsive and animated web application that acts as a digital identity for me as a developer. It features a visually rich and engaging layout, smooth transitions, and modular components that highlight:
+
+- ✅ **Who I am** – A brief bio, my passions, and goals.
+- 🛠️ **What I do** – A clean display of my core skills and technologies.
+- 💼 **What I’ve built** – A section for real-world projects with descriptions and links.
+- 📬 **How to reach me** – Integrated contact section and social media links.
+- 🎯 **Polish** – Animations, transitions, and custom cursor effects for a seamless UX.
+
+This project was built to not only demonstrate my technical capabilities but also to serve as a central hub for potential employers, clients, and collaborators.
+
+Whether you're viewing it on desktop, tablet, or mobile — it delivers a consistent, elegant experience.
+
+---
+
+
 ## 🌐 Live Demo
 
 > 🚀 **View Online**: [https://your-portfolio-link.com](https://your-portfolio-link.com)
