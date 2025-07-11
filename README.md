@@ -8,6 +8,11 @@
   Showcasing my projects, skills, and contact info in a modern, user-friendly layout.
 </p>
 
+<p align="center">
+  <a href="https://your-portfolio-link.com" target="_blank"><strong>🔗 Live Demo</strong></a> •
+  <a href="mailto:your.email@example.com"><strong>📩 Contact Me</strong></a>
+</p>
+
 ---
 
 ## 🌐 Live Demo
@@ -26,6 +31,18 @@
 
 ![Demo GIF](./screenshots/demo.gif)
 > _(or use `home.png` if GIF is not available)_
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Skills Section |
+|-----------|----------------|
+| ![](./screenshots/home.png) | ![](./screenshots/skills.png) |
+
+| Projects Section | Contact Section |
+|------------------|-----------------|
+| ![](./screenshots/projects.png) | ![](./screenshots/contact.png) |
 
 ---
 
@@ -73,3 +90,34 @@ src/
 ├── App.jsx                  # Root component
 ├── index.css                # Tailwind and global styles
 └── main.jsx                 # Application entry point
+
+```
+---
+
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/portfolio-website.git
+
+# Navigate to the project folder
+cd portfolio-website
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
