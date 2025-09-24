@@ -163,20 +163,20 @@ export const Contact = () => {
       color: 'from-gray-700 to-gray-800',
       followers: ' '
     },
-    {
-      icon: SiLeetcode,
-      name: 'LeetCode',
-      url: 'https://leetcode.com/nagamanikanta1210',
-      color: 'from-orange-500 to-yellow-500',
-      followers: ' '
-    },
-    {
-      icon: SiHackerrank,
-      name: 'HackerRank',
-      url: 'https://www.hackerrank.com/profile/green1210',
-      color: 'from-green-600 to-green-700',
-      followers: ' '
-    },
+    // {
+    //   icon: SiLeetcode,
+    //   name: 'LeetCode',
+    //   url: 'https://leetcode.com/nagamanikanta1210',
+    //   color: 'from-orange-500 to-yellow-500',
+    //   followers: ' '
+    // },
+    // {
+    //   icon: SiHackerrank,
+    //   name: 'HackerRank',
+    //   url: 'https://www.hackerrank.com/profile/green1210',
+    //   color: 'from-green-600 to-green-700',
+    //   followers: ' '
+    // },
     {
       icon: Instagram,
       name: 'Instagram',
